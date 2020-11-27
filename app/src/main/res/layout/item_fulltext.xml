@@ -29,7 +29,8 @@
                     android:layout_above="@id/Subtitle"
                     android:gravity="center"
                     android:text="TITLETITLETITLE"
-                    android:textSize="30sp" />
+                    android:textSize="30sp"
+                    android:textStyle="bold" />
 
                 <TextView
                     android:id="@+id/Subtitle"

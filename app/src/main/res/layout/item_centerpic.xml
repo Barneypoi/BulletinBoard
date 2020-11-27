@@ -24,12 +24,13 @@
                 android:layout_alignParentTop="true"
                 android:gravity="center"
                 android:text="TITLETITLETITLE"
-                android:textSize="30sp" />
+                android:textSize="30sp"
+                android:textStyle="bold" />
 
             <ImageView
                 android:id="@+id/pictureCenter"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="200dp"
                 android:layout_above="@id/SubtitleCenter"
                 android:layout_below="@id/TitleCenter"
                 android:layout_weight="1"
