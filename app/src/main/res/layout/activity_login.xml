@@ -25,6 +25,7 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/textview_border"
             android:text="请输入用户名" />
 
         <TextView
@@ -37,6 +38,7 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/textview_border"
             android:text="请输入密码" />
 
     </LinearLayout>
