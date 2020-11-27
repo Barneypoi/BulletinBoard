@@ -11,8 +11,10 @@
         android:layout_height="500dp"
         android:layout_gravity="center_horizontal"
         android:foreground="?android:attr/selectableItemBackground"
-        app:cardCornerRadius="5dp"
-        app:cardElevation="8dp">
+        android:clickable="true"
+        app:cardCornerRadius="6dp"
+        app:cardElevation="50dp"
+        app:contentPadding="5dp">
 
         <RelativeLayout
             android:layout_width="match_parent"
