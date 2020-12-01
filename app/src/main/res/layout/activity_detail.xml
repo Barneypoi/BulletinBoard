@@ -40,6 +40,30 @@
                     android:textSize="18sp" />
             </RelativeLayout>
 
+            <ImageView
+                android:id="@+id/imageViewDetail1"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                app:srcCompat="@android:drawable/ic_dialog_alert" />
+
+            <ImageView
+                android:id="@+id/imageViewDetail2"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                app:srcCompat="@android:drawable/ic_dialog_alert" />
+
+            <ImageView
+                android:id="@+id/imageViewDetail3"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                app:srcCompat="@android:drawable/ic_dialog_alert" />
+
+            <ImageView
+                android:id="@+id/imageViewDetail4"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                app:srcCompat="@android:drawable/ic_dialog_alert" />
+
             <TextView
                 android:id="@+id/Content"
                 android:layout_width="match_parent"
